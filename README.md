@@ -1,5 +1,11 @@
 # Django-website
-This website removes all the punctuation from the input and gives the output
+This website can do:
+1)Remove Punctuation
+2)Make all letter in uppercase
+3)Remove new line
+4)Remove extra space
+5)Count the number of characters
+
 
 *How to run this website:-
 1) Change directory to textutils & open the terminal.
